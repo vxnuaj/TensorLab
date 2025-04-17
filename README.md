@@ -8,6 +8,13 @@ This repository hosts a set of architectures, training scripts, and data process
 - `train/` - contains directories of training scripts, under which lies the pre-processing, training, validation, and inference infrastructure for different models.
 - `model/` - contains a set of architectures for a diverse set of models.
 
+### Usage
+
+`pip install -r requirements.txt`
+
+TODO
+- [ ] add some example usage as README under the folders.
+
 ### License
 
 ```
