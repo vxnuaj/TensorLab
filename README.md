@@ -12,9 +12,6 @@ This repository hosts a set of architectures, training scripts, and data process
 
 `pip install -r requirements.txt`
 
-TODO
-- [ ] add some example usage as README under the folders.
-
 ### License
 
 ```

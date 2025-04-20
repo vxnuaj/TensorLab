@@ -5,7 +5,7 @@ import torch.optim as optim
 import os
 
 from dataloader import get_dataloader, get_data
-from train_utils import get_config, get_custom_scheduler, load_checkpoint, train, get_model_parallel, setup_parallel, init_wandb, _save_config
+from train.SLM.main.model_utils import get_config, get_custom_scheduler, load_checkpoint, train, get_model_parallel, setup_parallel, init_wandb, _save_config
 from model import SLM
 
 model_config = get_config(type_='model')

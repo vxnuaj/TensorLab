@@ -3,6 +3,7 @@ import torch.distributed as dist
 import os
 import warnings
 
+from typing import Union, List
 from torch.utils.data import Dataset, DataLoader, DistributedSampler, SequentialSampler
 
 class TinyStoriesDataset(Dataset):
