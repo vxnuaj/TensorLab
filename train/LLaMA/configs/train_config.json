@@ -1,0 +1,5 @@
+{
+    "epochs": 20,
+    "checkpoint_steps": 21343,
+    "save_checkpoint_path": "ssd/checkpoints"
+}

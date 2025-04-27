@@ -1,0 +1,9 @@
+{
+    "data_root_path": "data/train",
+    "batch_size":"batch_size",
+    "num_workers":"num_workers",
+    "shuffle":"shuffle",
+    "pin_memory":"pin_memory",
+    "parallelism_type":"parallelism_type",
+    "rank":"rank"
+}
